@@ -141,5 +141,5 @@ This project is licensed under the MIT License.
 ---
 
 <p align="center">
-  Built with ❤️ for infrastructure enthusiasts & network engineers.
+Semua Dibuat Untuk Sesama
 </p>
