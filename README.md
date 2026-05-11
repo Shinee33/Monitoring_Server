@@ -1,16 +1,57 @@
-# React + Vite
+VM Monitor Multi-Node Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Modern multi-node virtual machine monitoring dashboard built for infrastructure management and real-time traffic visualization. Designed with a clean dark UI, neon-inspired monitoring cards, and responsive layout for server administrators and network engineers.
 
-Currently, two official plugins are available:
+✨ Features
+📊 Real-time VM monitoring
+🌐 Multi-node infrastructure support
+📈 Aggregated traffic statistics
+⚡ Live CPU & RAM usage tracking
+🟢 System health status monitoring
+🎨 Modern dark-mode interface
+📱 Responsive dashboard layout
+🔐 Infrastructure health overview
+🚀 Lightweight and fast performance
+🖥️ Dashboard Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Includes:
 
-## React Compiler
+Global infrastructure statistics
+VM running status
+Traffic analytics graph
+Resource usage monitoring
+Node health indicators
+Multi-instance management
+🛠️ Tech Stack
+Frontend: HTML, CSS, JavaScript
+UI Framework: TailwindCSS / Custom UI
+Charts: Chart.js / ApexCharts
+Backend: Node.js / Laravel / Go (optional)
+Monitoring API Integration Ready
+📦 Installation
+git clone https://github.com/USERNAME/REPOSITORY.git
+cd REPOSITORY
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Install dependencies:
 
-## Expanding the ESLint configuration
+npm install
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Run development server:
+
+npm run dev
+🎯 Purpose
+
+This project is designed for:
+
+VPS Providers
+Infrastructure Monitoring
+Home Lab Management
+VM Resource Visualization
+Network Operations Center (NOC)
+Multi-node server management
+📸 UI Highlights
+Smooth dark glassmorphism interface
+Neon green infrastructure theme
+Clean analytics widgets
+Simple navigation system
+Professional monitoring experience
