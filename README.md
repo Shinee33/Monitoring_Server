@@ -1,57 +1,146 @@
-VM Monitor Multi-Node Dashboard
+# 🚀 VM Monitor — Multi Node Infrastructure Dashboard
 
-Modern multi-node virtual machine monitoring dashboard built for infrastructure management and real-time traffic visualization. Designed with a clean dark UI, neon-inspired monitoring cards, and responsive layout for server administrators and network engineers.
+<p align="center">
+  Modern virtual machine monitoring dashboard with real-time infrastructure analytics, traffic visualization, and multi-node management.
+</p>
 
-✨ Features
-📊 Real-time VM monitoring
-🌐 Multi-node infrastructure support
-📈 Aggregated traffic statistics
-⚡ Live CPU & RAM usage tracking
-🟢 System health status monitoring
-🎨 Modern dark-mode interface
-📱 Responsive dashboard layout
-🔐 Infrastructure health overview
-🚀 Lightweight and fast performance
-🖥️ Dashboard Preview
+---
 
-Includes:
+## ✨ Overview
 
-Global infrastructure statistics
-VM running status
-Traffic analytics graph
-Resource usage monitoring
-Node health indicators
-Multi-instance management
-🛠️ Tech Stack
-Frontend: HTML, CSS, JavaScript
-UI Framework: TailwindCSS / Custom UI
-Charts: Chart.js / ApexCharts
-Backend: Node.js / Laravel / Go (optional)
-Monitoring API Integration Ready
-📦 Installation
+**VM Monitor** is a modern multi-node monitoring dashboard designed for managing virtual machines and infrastructure in real time.
+Built with a clean dark interface, lightweight performance, and intuitive analytics to help monitor servers efficiently.
+
+Perfect for:
+
+* 🌐 VPS Providers
+* 🖥️ Home Labs
+* 📡 NOC Monitoring
+* ☁️ Cloud Infrastructure
+* 🧪 Virtualization Labs
+* 🏢 Enterprise Monitoring
+
+---
+
+# 📸 Preview
+
+<img width="100%" alt="VM Monitor Dashboard" src="./preview.png">
+
+---
+
+# ⚡ Features
+
+## 📊 Real-Time Monitoring
+
+* Live VM status monitoring
+* CPU & RAM usage tracking
+* Traffic analytics visualization
+* Infrastructure health overview
+
+## 🌐 Multi-Node Support
+
+* Monitor multiple nodes simultaneously
+* Centralized infrastructure dashboard
+* Scalable monitoring architecture
+
+## 🎨 Modern UI/UX
+
+* Dark futuristic interface
+* Glassmorphism-inspired design
+* Responsive dashboard layout
+* Lightweight and fast rendering
+
+## 🔐 Infrastructure Health
+
+* Node health indicators
+* VM uptime monitoring
+* Running instance tracking
+* Aggregated system analytics
+
+---
+
+# 🛠️ Tech Stack
+
+| Technology             | Usage                   |
+| ---------------------- | ----------------------- |
+| HTML / CSS / JS        | Frontend                |
+| TailwindCSS            | Styling                 |
+| Chart.js / ApexCharts  | Analytics Visualization |
+| Node.js / Laravel / Go | Backend Support         |
+| REST API / WebSocket   | Real-time Data          |
+
+---
+
+# 📦 Installation
+
+Clone repository:
+
+```bash
 git clone https://github.com/USERNAME/REPOSITORY.git
+```
+
+Go to project directory:
+
+```bash
 cd REPOSITORY
+```
 
 Install dependencies:
 
+```bash
 npm install
+```
 
 Run development server:
 
+```bash
 npm run dev
-🎯 Purpose
+```
 
-This project is designed for:
+---
 
-VPS Providers
-Infrastructure Monitoring
-Home Lab Management
-VM Resource Visualization
-Network Operations Center (NOC)
-Multi-node server management
-📸 UI Highlights
-Smooth dark glassmorphism interface
-Neon green infrastructure theme
-Clean analytics widgets
-Simple navigation system
-Professional monitoring experience
+# 📁 Project Structure
+
+```bash
+project/
+├── public/
+├── src/
+├── components/
+├── pages/
+├── assets/
+├── api/
+└── README.md
+```
+
+---
+
+# 🚀 Future Plans
+
+* 🔔 Real-time alert system
+* 📱 Mobile application
+* ☁️ Cloud sync integration
+* 📈 Advanced analytics
+* 🧠 AI anomaly detection
+* 👥 Multi-user management
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome!
+
+```bash
+Fork → Create Branch → Commit → Pull Request
+```
+
+---
+
+# 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+<p align="center">
+  Built with ❤️ for infrastructure enthusiasts & network engineers.
+</p>
