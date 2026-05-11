@@ -24,9 +24,8 @@ Perfect for:
 
 # 📸 Preview
 
-<img width="100%" alt="VM Monitor Dashboard" src="./preview.png">
+<img width="1919" height="631" alt="image" src="https://github.com/user-attachments/assets/f3d4a996-b775-4583-a8f2-2bbb2024aa69" />
 
----
 
 # ⚡ Features
 
